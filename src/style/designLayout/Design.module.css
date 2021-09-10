@@ -1,0 +1,17 @@
+.background {
+  color: rgb(151, 59, 59);
+  background-color: rgb(15, 15, 15);
+  font-size: 30px;
+}
+
+body {
+  color: rgb(194, 164, 164);
+  background-color: rgb(34, 32, 32);
+  background-image: url(./cityscape.jpg);
+}
+
+header {
+  color: rgb(255, 217, 0);
+  font-size: 50px;
+  text-align: center;
+}

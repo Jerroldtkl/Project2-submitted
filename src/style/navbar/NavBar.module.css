@@ -1,0 +1,20 @@
+.navbar {
+  height: 5rem;
+  background-color: black;
+  color: gold;
+  align-items: flex-start;
+}
+
+.navbar nav {
+  height: 100px;
+}
+
+.navbar ul {
+  height: 100px;
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+}

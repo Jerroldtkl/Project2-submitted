@@ -1,0 +1,34 @@
+.content {
+  text-align: center;
+}
+
+.text {
+  text-align:start;
+}
+
+.font {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.fontFamily {
+  color: pink;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.fontLink {
+  color: rgb(57, 205, 216);
+  text-align: left;
+  align-items: left;
+}
+
+.buttons{
+ align-items: center;
+ text-align: center;
+ display: none;
+}
+
+.reviews {
+  text-align: left;
+  align-items: left;
+}
